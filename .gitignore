@@ -4,3 +4,4 @@ checkpoint.pth
 MNIST_data
 F_MNIST_data
 whole_model.pth
+.DS_Store
